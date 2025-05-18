@@ -12,12 +12,16 @@ No momento estou cursando (fora a faculdade) um Bootcamp da DIO **WEX - End to E
 Aqui estarão listados alguns projetos que fiz ao longo da minha jornada como programador.
 
 ### Pessoais
-|[Relic Frame C#](https://github.com/VinniSantos2003/Relic-Frame-CSharp)|
-|-|
+|Nome|Status|
+|-||-|
+|[Relic Frame C#](https://github.com/VinniSantos2003/Relic-Frame-CSharp)|| Não iniciado | 
+
 
 ###  Faculdade
-|[Clinica Hospitalar](https://github.com/VinniSantos2003/ClinicaHospitalar) |
-|-|
+|Nome|Status|
+|-||-|
+|[Clinica Hospitalar](https://github.com/VinniSantos2003/ClinicaHospitalar) | Finalizado|
+
 
 ## Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-santos-95983922a/)
@@ -35,12 +39,16 @@ Now, I'm coursing a bootcamp from DIO **WEX - End to End Engineering**, which is
 
 ## Projects
 ### Personal
-|[Relic Frame C#](https://github.com/VinniSantos2003/Relic-Frame-CSharp)|
-|-|
+|Name|Status|
+|-||-|
+|[Relic Frame C#](https://github.com/VinniSantos2003/Relic-Frame-CSharp)|Uninitialized| 
+
 
 ###  Faculty/University
-|[Clinica Hospitalar](https://github.com/VinniSantos2003/ClinicaHospitalar) |
-|-|
+|Name|Status|
+|-||-|
+|[Clinica Hospitalar](https://github.com/VinniSantos2003/ClinicaHospitalar) |Finished| 
+
 
 ## Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-santos-95983922a/)
