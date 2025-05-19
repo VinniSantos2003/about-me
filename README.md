@@ -9,14 +9,14 @@ No momento, estou procurando por oportunidades em areas relacionadas a API e apl
 
 ### Pessoais
 |Nome|Status|
-|----||-----|
-|[Relic Frame C#](https://github.com/VinniSantos2003/Relic-Frame-CSharp)|| Não iniciado | 
+|----|-----|
+|[Relic Frame C#](https://github.com/VinniSantos2003/Relic-Frame-CSharp)| Não iniciado | 
 
 ###  Faculdade
 
 |Nome|Status|
-|----||-----|
-|[Clinica Hospitalar](https://github.com/VinniSantos2003/ClinicaHospitalar) || Finalizado|
+|----|-----|
+|[Clinica Hospitalar](https://github.com/VinniSantos2003/ClinicaHospitalar) | Finalizado|
 
 ## Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-santos-95983922a/)
@@ -30,14 +30,14 @@ At the moment, I'm looking for oportunities in areas related to API and applicat
 ## Projects
 ### Personal
 |Name|Status|
-|----||-----|
-|[Relic Frame C#](https://github.com/VinniSantos2003/Relic-Frame-CSharp)||Uninitialized| 
+|----|-----|
+|[Relic Frame C#](https://github.com/VinniSantos2003/Relic-Frame-CSharp)|Uninitialized| 
 
 
 ###  Faculty/University
 |Name|Status|
-|----||-----|
-|[Clinica Hospitalar](https://github.com/VinniSantos2003/ClinicaHospitalar)||Finished| 
+|----|-----|
+|[Clinica Hospitalar](https://github.com/VinniSantos2003/ClinicaHospitalar)|Finished| 
 
 
 ## Links
